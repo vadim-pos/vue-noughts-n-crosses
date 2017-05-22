@@ -1,4 +1,4 @@
-# noughts-n-crosses
+# [noughts-n-crosses](https://vadim-pos.github.io/vue-noughts-n-crosses/)
 
 > A Vue.js mini-game with minimax algorithm AI
 
