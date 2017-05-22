@@ -1,6 +1,6 @@
 # noughts-n-crosses
 
-> A Vue.js project
+> A Vue.js mini-game with minimax algorithm AI
 
 ## Build Setup
 
